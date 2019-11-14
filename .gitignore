@@ -1,0 +1,36 @@
+## IntelliJ
+*.iml
+
+# Directory-based project format:
+.idea/
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+## Eclipse
+bin/
+tmp/
+local.properties
+.settings/
+.recommenders/
+.loadpath
+
+# Eclipse Core
+.project
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# sbteclipse plugin
+.target
+
+test-output/
+reports/
+result/
+target/
