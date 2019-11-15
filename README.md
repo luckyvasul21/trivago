@@ -1,4 +1,4 @@
-Work In Progress ( About to finish)
+## Work In Progress ( About to finish)
 Automation Code Challenge
 Create a set of Selenium Tests in any programming language for the following requirements.
 The website http://trivago.com/ have extended their search filters with some new options.
